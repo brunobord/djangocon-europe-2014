@@ -1,5 +1,5 @@
 /* Slideshow styles */
-@import url(http://fonts.googleapis.com/css?family=Duru+Sans|Exo+2:400,700,400italic,700italic|Arvo:400,400italic);
+@import url(http://fonts.googleapis.com/css?family=Duru+Sans|Exo+2:400,700,400italic,700italic|Rokkitt:400,700);
 body {
     font-family: 'Exo 2', sans-serif;
     font-size: 2em;
@@ -60,9 +60,21 @@ a, a:hover {
     background-position: bottom;
 }
 blockquote {
-    font-family: 'Arvo', serif;
-    font-style: italic;
+    font-family: 'Rokkitt', serif;
+    /*font-style: italic;*/
+}
+blockquote:before {
+    font-family: serif;
+    display: block;
+    font-size: 300%;
+    color: #ccc;
+    content: "\201C";
+    margin-left: -10%;
+    height: 0;
 }
 div.remark-slide-number {
     display: none;
+}
+.smaller {
+    font-size: 90%;
 }
