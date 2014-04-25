@@ -1,0 +1,61 @@
+/* Slideshow styles */
+@import url(http://fonts.googleapis.com/css?family=Duru+Sans|Exo+2:400,700,400italic,700italic);
+body {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 2em;
+}
+.remark-slide-content {
+    background-color: #2461A7;
+    color: #e7e8e2;
+    text-shadow: 0 0 20px #333;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Duru Sans', sans-serif;
+}
+h1 {
+    font-size: 1.3em;
+}
+h2 {
+    font-size: 1.1em;
+}
+a, a:hover {
+    color: #e7e8e2;
+}
+.middle h1 {
+    font-size: 2em;
+}
+.red {
+    color: #fa0000;
+}
+.footnote {
+    position: absolute;
+    bottom: 3em;
+    font-size: .7em;
+}
+.dark {
+    background-color: #000;
+    color: #e7e8e2;
+}
+.redbg {
+    background-color: #fa0000;
+    color: #fff;
+}
+.white {
+    background-color: #fff;
+}
+.left-column {
+    width: 20%;
+    height: 92%;
+    float: left;
+}
+.right-column {
+    width: 75%;
+    float: right;
+    padding-top: 2em;
+}
+.no-repeat {
+    background-repeat: no-repeat;
+}
+.foot {
+    background-position: bottom;
+}
