@@ -1,5 +1,5 @@
 /* Slideshow styles */
-@import url(http://fonts.googleapis.com/css?family=Duru+Sans|Exo+2:400,700,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Duru+Sans|Exo+2:400,700,400italic,700italic|Arvo:400,400italic);
 body {
     font-family: 'Exo 2', sans-serif;
     font-size: 2em;
@@ -58,4 +58,11 @@ a, a:hover {
 }
 .foot {
     background-position: bottom;
+}
+blockquote {
+    font-family: 'Arvo', serif;
+    font-style: italic;
+}
+div.remark-slide-number {
+    display: none;
 }

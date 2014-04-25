@@ -76,15 +76,15 @@ class: center, middle
 
 ---
 
-class: white
-
-background-image: url(img/shadoks.jpg)
-
----
-
 class: center, middle
 
 # Don't Panic
+
+---
+
+class: white
+
+background-image: url(img/shadoks.jpg)
 
 ---
 
@@ -173,6 +173,23 @@ class: center, middle
 class: center, middle
 
 # Do you speak Français?
+
+---
+
+# "Phrase" book
+
+\- Knock knock.  
+\- Who's there?  
+\- The french.  
+\- French who?  
+\- \*shrugs\*
+
+---
+
+> I am deeply sorry, but I didn't understand a word of what you've just said,
+> but you may try to repeat very slowly with very simple words, I'll do my best.
+
+.right[![Manuel](img/manuel.jpg)]
 
 ---
 
