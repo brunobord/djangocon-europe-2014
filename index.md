@@ -193,6 +193,62 @@ class: center, middle
 
 ---
 
+class: center, middle
+
+# Politeness
+
+---
+
+class: center, middle
+
+# Bonjour
+
+---
+
+class: center, middle
+
+# Bonjour
+# *before*
+# anything
+
+---
+
+class: center, middle
+
+# Merci
+
+---
+
+class: center, middle
+
+# Au revoir
+
+---
+
+# At the bakery
+
+![TODO](img/baguette.jpg)
+
+---
+
+# At the bakery
+
+> Bonjour Madame, je voudrais une baguette "pas trop cuite".
+
+---
+
+# At the café
+
+> Bonjour Monsieur, je voudrais un café, s'il vous plaît.
+
+---
+
+# Got bandwidth?
+
+> Bonjour Madame, avez-vous du wifi ?
+
+---
+
 class: center, middle, foot
 background-image: url(img/footer.png)
 
