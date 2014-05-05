@@ -225,9 +225,11 @@ class: center, middle
 
 ---
 
-# At the bakery
+class: center, middle
 
-![TODO](img/baguette.jpg)
+## At the bakery
+
+![Baguette](img/baguette.jpg)
 
 ---
 
