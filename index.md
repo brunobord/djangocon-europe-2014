@@ -106,7 +106,7 @@ class: center, middle, redbg
 
 # G33k 5pe4k
 
-```
+```python
 while attendees in Island("Embiez"):
     try:
         for attendee in attendees:
@@ -180,11 +180,18 @@ class: center, middle, redbg
 
 ---
 
+
 class: center, middle, redbg
 
 # Drink responsibly
 
 .footnote[the better the party will be]
+
+---
+
+class: center, middle
+
+# Back from the party
 
 ---
 
