@@ -45,6 +45,14 @@ class: center, middle
 
 class: center, middle
 
+# Sponsors
+
+![clap](img/clap.gif)
+
+---
+
+class: center, middle
+
 # .red[You!]
 
 ![clap](img/clap.gif)
