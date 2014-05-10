@@ -104,6 +104,22 @@ class: center, middle, redbg
 
 ---
 
+# G33k 5pe4k
+
+```
+while attendees in Island("Embiez"):
+    try:
+        for attendee in attendees:
+            attendee.enjoy()
+    except DangerException:
+        attendee.phone.call(112)
+        attendee.report(organizers)
+
+```
+
+
+---
+
 class: center, middle
 
 # Code of conduct
