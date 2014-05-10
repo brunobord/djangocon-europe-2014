@@ -104,7 +104,7 @@ class: center, middle, redbg
 
 ---
 
-# G33k 5pe4k
+# tldr.py
 
 ```python
 while attendees in Island("Embiez"):
@@ -116,7 +116,6 @@ while attendees in Island("Embiez"):
         attendee.report(organizers)
 
 ```
-
 
 ---
 
@@ -133,6 +132,7 @@ class: center, middle, redbg
 .footnote[you don't want to make us sad :(]
 
 ---
+
 
 class: center, middle
 
@@ -169,6 +169,24 @@ class: center, middle
 # the bandwidth
 
 .footnote[we're on an **island** right?]
+
+---
+
+# tldr2.py
+
+```python
+while attendees in Island("Embiez"):
+    try:
+        for attendee in attendees:
+            attendee.enjoy()
+    except CodeOfConductViolation:
+        attendee.report(organizers)
+    except DangerException:
+        attendee.phone.call(112)
+        attendee.report(organizers)
+
+```
+
 
 ---
 
