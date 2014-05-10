@@ -172,6 +172,49 @@ class: center, middle
 
 ---
 
+class: center, middle, greenbg
+
+# Idle on IRC
+
+
+---
+
+class: center, middle, redbg
+
+# Torrenting
+
+---
+
+class: center, middle, greenbg
+
+# Checking your emails
+
+---
+
+class: center, middle, redbg
+
+# Youtube funny video
+
+
+.footnote[even if it's a kitten riding a Django Pony]
+
+---
+
+class: center, middle, redbg
+
+## git clone django/django
+
+---
+
+class: center, middle, greenbg
+
+## git clone django/django
+
+
+.footnote[between 5am and 6am]
+
+---
+
 # tldr2.py
 
 ```python

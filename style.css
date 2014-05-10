@@ -36,6 +36,10 @@ a, a:hover {
     background-color: #000;
     color: #e7e8e2;
 }
+.greenbg {
+    background-color: #060;
+    color: #e7e8e2;
+}
 .redbg {
     background-color: #fa0000;
     color: #fff;
