@@ -176,7 +176,6 @@ class: center, middle, greenbg
 
 # Idle on IRC
 
-
 ---
 
 class: center, middle, redbg
@@ -212,6 +211,13 @@ class: center, middle, greenbg
 
 
 .footnote[between 5am and 6am]
+
+---
+
+class: center, middle, greenbg
+
+# #djangoisland
+
 
 ---
 
