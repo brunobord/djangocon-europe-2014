@@ -27,6 +27,9 @@ a, a:hover {
 .red {
     color: #fa0000;
 }
+.black {
+    color: #222;
+}
 .footnote {
     position: absolute;
     bottom: 3em;

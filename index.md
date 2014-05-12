@@ -84,6 +84,14 @@ class: center, middle
 
 ---
 
+class: center, redbg
+background-image: url(img/jets_systems.gif)
+
+## .black[Emergency]
+
+
+---
+
 class: center, middle
 
 # Don't Panic
@@ -132,7 +140,6 @@ class: center, middle, redbg
 .footnote[you don't want to make us sad :(]
 
 ---
-
 
 class: center, middle
 
@@ -186,7 +193,7 @@ class: center, middle, redbg
 
 class: center, middle, greenbg
 
-# Checking your emails
+# Checking your <small>(work)</small> emails
 
 ---
 
