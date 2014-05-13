@@ -412,6 +412,16 @@ class: center, middle, redbg
 
 ---
 
+class: center
+
+# Cigales
+
+![cigale](img/cigale.jpg)
+
+## *cicada*
+
+---
+
 class: center, middle
 
 # One more thing
